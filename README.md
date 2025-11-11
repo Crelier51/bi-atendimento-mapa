@@ -23,7 +23,8 @@ Monitorar cobertura por rede/loja/região com regras padronizadas e rastreabilid
 
 ## 🔗 Dashboard
 
-Gráfico ao vivo (Looker Studio): https://lookerstudio.google.com/reporting/2368fb39-e7cb-40e7-9b
+Gráfico ao vivo (Looker Studio): 
+https://lookerstudio.google.com/s/pA3Yfb3Z2hs
 
 bi-atendimento-mapa/
 ├── etl/
