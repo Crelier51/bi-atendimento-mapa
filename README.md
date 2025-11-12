@@ -17,9 +17,7 @@ Monitorar cobertura por rede/loja/região com regras padronizadas e rastreabilid
 3) Modelagem (VIEW canônica BigQuery com LojaPadrao).  
 4) Visualização (Looker Studio com filtros geográficos e página de qualidade).
 
-![Arquitetura da Solução](imagens/arquitetura_solucao.png)
-
-> Suba o arquivo da imagem em: imagens/arquitetura_solucao.png (1920×640 recomendado; PNG com fundo claro).
+![Arquitetura da Solução](imagens/arquitetura_da_solucao.png)
 
 ## 🔗 Dashboard
 
